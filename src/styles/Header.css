@@ -1,0 +1,27 @@
+.empresa-header {
+  background-color: #c9184a;
+  color: white;
+  padding: 2rem;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.empresa-nombre {
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.empresa-info p {
+  margin: 0.4rem 0;
+  font-size: 1.1rem;
+}
+
+.error-text {
+  color: #ffd6d6;
+}
+
+.cargando {
+  opacity: 0.8;
+  font-style: italic;
+}
